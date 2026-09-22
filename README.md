@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diogomaiadev28" alt="diogomaiadev28" /></a> </p>
 
-- 🔭 I'm currently working on **A household chores app.**
+- 🔭 I'm currently working on **A household chores app:** <a href="https://casaemdiaapp.com.br">casaemdiaapp.com.br</a>
 
 - 🌱 I'm currently learning **Vue.js, React and Laravel**
 
